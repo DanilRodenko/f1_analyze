@@ -32,11 +32,3 @@ The goal is to combine exploratory data analysis with structured metrics that ex
 - scikit-learn (for auxiliary analysis)
 - sentence-transformers (weather classification)
 
-## 🚀 Future Work
-- Streamlit dashboard
-- Predictive modeling for chaos probability
-- Track archetype clustering
-- Extension to betting-market features
-
-## 📊 Motivation
-This project i
